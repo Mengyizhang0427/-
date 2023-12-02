@@ -3,5 +3,4 @@ opencv-python
 torch
 numpy
 statistics
-tempfile
 monai-weekly
